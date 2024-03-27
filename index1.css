@@ -1,0 +1,73 @@
+.body{
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.text-style{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40px;
+    align-items: center;
+}
+
+.Papper{
+    list-style-image: url(images/Papper.png);
+}
+
+.Apple{
+    list-style-image: url(images/Apple.png);
+}
+
+.Cheese{
+    list-style-image: url(images/cheese.png);
+}
+
+.Corn{
+    list-style-image: url(images/Corn.png);
+}
+
+.Coriander{
+    list-style-image: url(images/Coriander.png);
+}
+
+.Fish{
+    list-style-image: url(images/Fish.png);
+}
+
+.Garlic{
+    list-style-image: url(images/garlic.png);
+}
+
+.Mushroom{
+    list-style-image: url(images/Mushroom.png);
+}
+
+.Eggs{
+    list-style-image: url(images/Eggs.png);
+}
+
+.Beef{
+    list-style-image: url(images/beef.png);
+}
+
+.div-item-container{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    width: 130px;
+    height: 180px;
+    padding: 15px;
+    background-color: #f2f2f2;
+}
+
+.p{
+    font-family: Arial;
+    font-weight: bold;
+}
